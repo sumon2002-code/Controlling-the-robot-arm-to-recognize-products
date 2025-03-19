@@ -1,4 +1,5 @@
 <h1> Controlling a robot arm to recognize products using CNN algorithm in deeplearning
 
 <h2>DEMO
-<h3>https://github.com/user-attachments/assets/e1dda361-0f80-4858-9859-6e1f5e9d01da
+
+https://github.com/user-attachments/assets/042064c6-9c09-470a-8a9c-7cf78f377134
